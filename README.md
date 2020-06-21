@@ -4,7 +4,7 @@ Notes from papers I'm reading, ordered by topic and chronologically.
 
 ## NLP
 
-1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp)
+1. Neural Machine Translation of Rare Words with Subword Units, Sennrich et al., 2015 [[Pdf](https://www.aclweb.org/anthology/P16-1162.pdf)] [[Paper](https://arxiv.org/abs/1508.07909)] [[Notes](-2017/1508.07909.md)] [\#nlp](#nlp)
 2. Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable, Hangya et al., 2018 [[Paper](https://www.aclweb.org/anthology/P18-1075)] [[Notes](2018/1807.1075.md)] [\#nlp](#nlp)
 3. Linguistic Knowledge and Transferability of Contextual Representations, Liu et al., 2019 [[Paper](https://arxiv.org/abs/1903.08855)] [[Notes](2019/1903.08855.md)] [\#nlp](#nlp)
 4. What do you learn from context? Probing for sentence structure in contextualized word representations, Tenney et al., 2019 [[Paper](https://openreview.net/forum?id=SJzSgnRcKX)] [[Notes](2019/1905.md)] [\#nlp](#nlp)
